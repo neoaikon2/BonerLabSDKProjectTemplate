@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BonerlabSDKTestPallet_VFXs
+  m_EditorClassIdentifier: 
+  m_GroupName: BonerlabSDKTestPallet_VFXs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0d681e1df743b8d4da28160b7375de99
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 916a22a3ad86b1c45b6aa27c3e430669, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4bc695fc229d6f0498ec91e415eb190a, type: 2}
+    - {fileID: 11400000, guid: 4fafcc375b9724047b65f91acbaddd15, type: 2}
+    - {fileID: 11400000, guid: 658f75335966b5f49b489a5ae5b3dabf, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BonerlabSDKTestPallet_Spawnables
+  m_EditorClassIdentifier: 
+  m_GroupName: BonerlabSDKTestPallet_Spawnables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 43d3d834db585be4b8c4e7d9770326d4
+  m_SerializeEntries:
+  - m_GUID: 179e94abf4a23a54d9b0a2d3fad601cc
+    m_Address: Spawnable/SDK Test Object
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d75cdb0ea7b33d4b9403d1fff248768
+    m_Address: PreviewMesh/SDK Test Object
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 916a22a3ad86b1c45b6aa27c3e430669, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2f6a14f80c4024f4aabbaeab9a7e67bf, type: 2}
+    - {fileID: 11400000, guid: a190edb1209ad494dbcdfd9b3f5950df, type: 2}
+    - {fileID: 11400000, guid: 39f928629f0654d42bb9fb610b8aa6e6, type: 2}

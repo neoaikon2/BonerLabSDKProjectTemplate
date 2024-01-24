@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1284204749, guid: c971b9e4b27aad5909a1ab488f7cb554, type: 3}
+  m_Name: 1911 Shell Impact Audio
+  m_EditorClassIdentifier:
+  audioClips:
+  - {fileID: 8300000, guid: da4b8e44d8769c84f9c5f137899cb18d, type: 3}
+  - {fileID: 8300000, guid: 737191dcfe94177488017fcce886857e, type: 3}
+  - {fileID: 8300000, guid: 0d07a7b34513f9b4bb7bffd6e58902d3, type: 3}
